@@ -28,8 +28,8 @@ a {
 main {
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 p {
@@ -37,7 +37,7 @@ p {
     margin: 30px auto;
     line-height: 1.8;
     font-size: 18px;
-    color: #08415c;
+    color: #1e090d;
     background-color: #f7f7f2;
     line-height: 1.2;
 }
@@ -47,11 +47,11 @@ a:link {
 }
 
 a:visited {
-    color: #08415c;
+    color: #914d76;
 }
 
 a:hover {
-    color: #914d76;
+    color: #73b824;
 }
 
 footer {
@@ -80,7 +80,7 @@ footer {
 
 .header li {
     display: inline-block;
-    padding: 15px;
+    padding: 10px;
 }
 
 .header a {
@@ -102,6 +102,6 @@ a.home {
 .banner p {
     color: #69353f;
     font-family: 'Libre Barcode 39 Extended Text', cursive;
-    font-size: 60px;
+    font-size: 65px;
     text-align: center;
 }
